@@ -1,0 +1,5 @@
+{
+    "weatherByCity":"api.openweathermap.org/data/2.5/weather",
+    "weatherByPosition":"https://api.openweathermap.org/data/2.5/weather?lat=${cityHandler.position.lat}&lon=${cityHandler.position.lon}&units=metric&appid=7dfdf613ca44757e704911a0f6a5fd71",
+    "cityImage":"https://api.unsplash.com/search/photos"
+}
